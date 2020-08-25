@@ -1,0 +1,10 @@
+{
+	"name":"FactorioReSounds",
+	"author":"Hackgaee, Copy/Past",
+	"version":"0.1",
+	"title":"Factorio Resound",
+	"homepage":"",
+	"description":"Replaces vanilla sounds",
+    "dependencies": ["base"],
+	"factorio_version": "1.0"
+}
