@@ -57,7 +57,7 @@ ss.attack_parameters.cyclic_sound =
   middle_sound =
   {
     {
-      filename = "__base__/sound/fight/flamethrower-mid.ogg",
+      filename = "__FactorioReSounds__/sounds/re-fight/flamethrower-mid.ogg",
       volume = 0
     }
   },
@@ -103,7 +103,7 @@ ms.attack_parameters.cyclic_sound =
   middle_sound =
   {
     {
-      filename = "__base__/sound/fight/flamethrower-mid.ogg",
+      filename = "__FactorioReSounds__/sounds/re-fight/flamethrower-mid.ogg",
       volume = 0
     }
   },
@@ -170,7 +170,7 @@ bs.attack_parameters.cyclic_sound =
   middle_sound =
   {
     {
-      filename = "__base__/sound/fight/flamethrower-mid.ogg",
+      filename = "__FactorioReSounds__/sounds/re-fight/flamethrower-mid.ogg",
       volume = 0
     }
   },
@@ -229,7 +229,7 @@ bbs.attack_parameters.cyclic_sound =
   middle_sound =
   {
     {
-      filename = "__base__/sound/fight/flamethrower-mid.ogg",
+      filename = "__FactorioReSounds__/sounds/re-fight/flamethrower-mid.ogg",
       volume = 0
     }
   },
@@ -286,7 +286,7 @@ sw.attack_parameters.cyclic_sound =
   --middle_sound =
  -- {
     --{
-     -- filename = "__base__/sound/fight/flamethrower-mid.ogg",
+     -- filename = "__FactorioReSounds__/sounds/re-fight/flamethrower-mid.ogg",
       --volume = 0.7
     --}
   --},
